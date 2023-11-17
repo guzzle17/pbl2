@@ -1,3 +1,0 @@
-C:\Users\Dung\source\repos\test\test\x64\Debug\test.vcxproj.AssemblyReference.cache
-C:\Users\Dung\source\repos\test\test\x64\Debug\test.MyForm.resources
-C:\Users\Dung\source\repos\test\test\x64\Debug\test.vcxproj.GenerateResource.cache

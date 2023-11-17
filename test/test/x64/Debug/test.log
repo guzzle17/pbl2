@@ -1,0 +1,15 @@
+﻿  Program.cpp
+  RegisterForm.cpp
+C:\Users\Dung\source\repos\test\test\LoginForm.h(273,21): warning C4101: 'e': unreferenced local variable
+  (compiling source file 'Program.cpp')
+  
+C:\Users\Dung\source\repos\test\test\RegisterForm.h(302,21): warning C4101: 'e': unreferenced local variable
+  (compiling source file 'Program.cpp')
+  
+C:\Users\Dung\source\repos\test\test\Program.cpp(9,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+C:\Users\Dung\source\repos\test\test\RegisterForm.h(302,21): warning C4101: 'e': unreferenced local variable
+  (compiling source file 'RegisterForm.cpp')
+  
+  Generating Code...
+  GuestForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  test.vcxproj -> C:\Users\Dung\source\repos\test\x64\Debug\test.exe

@@ -1,0 +1,6 @@
+C:\Users\Dung\source\repos\test\test\x64\Debug\test.vcxproj.AssemblyReference.cache
+C:\Users\Dung\source\repos\test\test\x64\Debug\test.vcxproj.GenerateResource.cache
+C:\Users\Dung\source\repos\test\test\x64\Debug\test.LoginForm.resources
+C:\Users\Dung\source\repos\test\test\x64\Debug\test.RegisterForm.resources
+C:\Users\Dung\source\repos\test\test\x64\Debug\test.GuestForm.resources
+C:\Users\Dung\source\repos\test\test\x64\Debug\test.WorkForm.resources

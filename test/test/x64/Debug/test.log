@@ -1,0 +1,12 @@
+﻿  MyForm.cpp
+C:\Users\Dung\source\repos\test\test\MyForm.h(237,21): warning C4101: 'e': unreferenced local variable
+  (compiling source file 'MyForm.cpp')
+  
+  Program.cpp
+C:\Users\Dung\source\repos\test\test\MyForm.h(237,21): warning C4101: 'e': unreferenced local variable
+  (compiling source file 'Program.cpp')
+  
+C:\Users\Dung\source\repos\test\test\Program.cpp(6,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  test.vcxproj -> C:\Users\Dung\source\repos\test\x64\Debug\test.exe
